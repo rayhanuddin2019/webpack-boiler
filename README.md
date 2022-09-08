@@ -47,6 +47,7 @@ cd dist && http-server
 ## Video Instruction
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 https://user-images.githubusercontent.com/47168831/189038973-45e3566b-3ab3-48f3-87a2-97158168fbed.mp4
 
 ## Features
