@@ -40,6 +40,10 @@ You can view the deploy by creating a server in `dist`.
 cd dist && http-server
 ```
 
+## Development Video Instruction
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 ## Features
 
 - [webpack](https://webpack.js.org/)
