@@ -1,8 +1,8 @@
-# 📦 webpack Boilerplate
+# 📦 WordPress Settings Panel
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Sensible webpack 5 boilerplate using Babel, PostCSS and Sass.
+WordPress Settings Panel using gutenberg.
 
 ## Installation
 
